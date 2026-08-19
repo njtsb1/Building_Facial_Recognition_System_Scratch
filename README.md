@@ -1,4 +1,6 @@
-# Face Recognition Demo (Frontend)
+# Building a Facial Recognition System from Scratch
+
+Project developed at Machine Learning Specialist Training Bootcamp, under the guidance of specialist [Diego Renan](https://github.com/diegobrunoDIO "Diego Renan").
 
 The primary objective of this project is to work with libraries and frameworks. Accordingly, the standard proposal entails a face detection and recognition system using the TensorFlow framework in conjunction with any libraries the developer deems appropriate.
 
