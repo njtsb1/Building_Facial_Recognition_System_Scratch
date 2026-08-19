@@ -1,0 +1,35 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+*.egg-info/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Data / models / outputs
+dataset/
+*.npz
+*.joblib
+*.h5
+models/
+outputs/
+*.jpg
+*.png
+
+# Logs
+*.log
