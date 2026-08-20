@@ -10,7 +10,9 @@ To achieve this, you must:
 
 1. Use a detection network trained to detect faces.
 2. Use a classification network to classify the detected face.
-![Figure 1](./docs/assets/image.png)
+
+<img width="748" height="499" alt="image" src="https://github.com/user-attachments/assets/775fe99b-14c7-46ee-bd15-747a948b8e5a" />
+
 Figure 1: Face detection and recognition.
 
 ## Features
