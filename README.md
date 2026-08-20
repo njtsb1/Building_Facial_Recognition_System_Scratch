@@ -27,7 +27,7 @@ Figure 1: Face detection and recognition.
 
 ## Tecnologies used
 
-- **Python**:
+- **Python**: training and recognition utilities (FaceNet embeddings, MTCNN detection, SVM classifier).
 - **HTML**: main page (semantic structure).
 - **CSS**: styles (dark-first, responsive).
 - **JavaScript**: UI logic: theme, language, preview, demo detection simulation.
