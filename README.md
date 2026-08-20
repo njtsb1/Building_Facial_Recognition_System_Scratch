@@ -68,4 +68,6 @@ Update the onDetect() function in script.js to POST the image and parse the JSON
 - If your backend returns normalized coordinates (0–1), convert them to pixel coordinates before drawing.
 - For production, serve the frontend from a static server and secure the backend endpoints.
 
+<img width="1011" height="547" alt="face_recognition" src="https://github.com/user-attachments/assets/c28a6ff7-a2d3-448a-80a6-b20d91c12e8b" />
+
 [LICENSE](/LICENSE)
